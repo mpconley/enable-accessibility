@@ -1,3 +1,5 @@
+# Makes it easier to enable accessibility for Mudlet
+
 `mudlet accessibility on` will toggle a few settings for a better visually impaired experience:
 
 * auto clear input line after sent text
