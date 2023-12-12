@@ -1,0 +1,10 @@
+[
+  {
+    "name": "mudlet accessibility on",
+    "regex": "^mudlet access(?:ibility)? on$"
+  },
+  {
+    "name": "mudlet accessibility reader",
+    "regex": "^mudlet access(?:ibility)? reader$"
+  }
+]
