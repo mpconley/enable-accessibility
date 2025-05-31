@@ -7,6 +7,8 @@ setConfig("showSentText", false)
 echo("Text sent to the game will not appear in the main window ✓\n")
 setConfig("advertiseScreenReader", true)
 echo("Advertising screen reader use to games supporting Mud Terminal Type Standard (MTTS) ✓\n")
+setConfig("editorAutoComplete", true)
+echo("Disabling visual auto complete in the code editor ✓\n")
 
 setConfig("caretShortcut", "ctrltab")
 echo("Shortcut to switch between input line and main window set to Ctrl+Tab. You can also change it to either Tab or F6 in settings.\n")
